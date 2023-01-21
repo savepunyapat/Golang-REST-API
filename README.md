@@ -1,1 +1,1 @@
-# Golang-RESTFul-API
+# Golang-REST-API
